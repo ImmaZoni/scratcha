@@ -1,0 +1,28 @@
+# Database
+*.db
+*.db-journal
+scratcher_data.db
+
+# Generated content
+/public/web_data/*.json
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Environment files
+.env
+.venv
+venv/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Personal Files
+optimizations.md
